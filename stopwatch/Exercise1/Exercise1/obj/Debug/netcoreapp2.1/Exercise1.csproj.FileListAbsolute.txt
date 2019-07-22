@@ -1,0 +1,11 @@
+/Users/teeraponguthairat/Desktop/C#/Exercises/Exercise1/Exercise1/bin/Debug/netcoreapp2.1/Exercise1.deps.json
+/Users/teeraponguthairat/Desktop/C#/Exercises/Exercise1/Exercise1/bin/Debug/netcoreapp2.1/Exercise1.runtimeconfig.json
+/Users/teeraponguthairat/Desktop/C#/Exercises/Exercise1/Exercise1/bin/Debug/netcoreapp2.1/Exercise1.runtimeconfig.dev.json
+/Users/teeraponguthairat/Desktop/C#/Exercises/Exercise1/Exercise1/bin/Debug/netcoreapp2.1/Exercise1.dll
+/Users/teeraponguthairat/Desktop/C#/Exercises/Exercise1/Exercise1/bin/Debug/netcoreapp2.1/Exercise1.pdb
+/Users/teeraponguthairat/Desktop/C#/Exercises/Exercise1/Exercise1/obj/Debug/netcoreapp2.1/Exercise1.csprojAssemblyReference.cache
+/Users/teeraponguthairat/Desktop/C#/Exercises/Exercise1/Exercise1/obj/Debug/netcoreapp2.1/Exercise1.csproj.CoreCompileInputs.cache
+/Users/teeraponguthairat/Desktop/C#/Exercises/Exercise1/Exercise1/obj/Debug/netcoreapp2.1/Exercise1.AssemblyInfoInputs.cache
+/Users/teeraponguthairat/Desktop/C#/Exercises/Exercise1/Exercise1/obj/Debug/netcoreapp2.1/Exercise1.AssemblyInfo.cs
+/Users/teeraponguthairat/Desktop/C#/Exercises/Exercise1/Exercise1/obj/Debug/netcoreapp2.1/Exercise1.dll
+/Users/teeraponguthairat/Desktop/C#/Exercises/Exercise1/Exercise1/obj/Debug/netcoreapp2.1/Exercise1.pdb
