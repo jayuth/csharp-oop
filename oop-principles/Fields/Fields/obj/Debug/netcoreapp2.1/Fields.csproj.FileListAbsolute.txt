@@ -1,0 +1,11 @@
+/Users/teeraponguthairat/Desktop/C#/Fields/Fields/bin/Debug/netcoreapp2.1/Fields.deps.json
+/Users/teeraponguthairat/Desktop/C#/Fields/Fields/bin/Debug/netcoreapp2.1/Fields.runtimeconfig.json
+/Users/teeraponguthairat/Desktop/C#/Fields/Fields/bin/Debug/netcoreapp2.1/Fields.runtimeconfig.dev.json
+/Users/teeraponguthairat/Desktop/C#/Fields/Fields/bin/Debug/netcoreapp2.1/Fields.dll
+/Users/teeraponguthairat/Desktop/C#/Fields/Fields/bin/Debug/netcoreapp2.1/Fields.pdb
+/Users/teeraponguthairat/Desktop/C#/Fields/Fields/obj/Debug/netcoreapp2.1/Fields.csprojAssemblyReference.cache
+/Users/teeraponguthairat/Desktop/C#/Fields/Fields/obj/Debug/netcoreapp2.1/Fields.csproj.CoreCompileInputs.cache
+/Users/teeraponguthairat/Desktop/C#/Fields/Fields/obj/Debug/netcoreapp2.1/Fields.AssemblyInfoInputs.cache
+/Users/teeraponguthairat/Desktop/C#/Fields/Fields/obj/Debug/netcoreapp2.1/Fields.AssemblyInfo.cs
+/Users/teeraponguthairat/Desktop/C#/Fields/Fields/obj/Debug/netcoreapp2.1/Fields.dll
+/Users/teeraponguthairat/Desktop/C#/Fields/Fields/obj/Debug/netcoreapp2.1/Fields.pdb

@@ -1,0 +1,11 @@
+/Users/teeraponguthairat/Desktop/C#/InheritanceCasting/InheritanceCasting/obj/Debug/netcoreapp2.1/InheritanceCasting.csprojAssemblyReference.cache
+/Users/teeraponguthairat/Desktop/C#/InheritanceCasting/InheritanceCasting/obj/Debug/netcoreapp2.1/InheritanceCasting.csproj.CoreCompileInputs.cache
+/Users/teeraponguthairat/Desktop/C#/InheritanceCasting/InheritanceCasting/obj/Debug/netcoreapp2.1/InheritanceCasting.AssemblyInfoInputs.cache
+/Users/teeraponguthairat/Desktop/C#/InheritanceCasting/InheritanceCasting/obj/Debug/netcoreapp2.1/InheritanceCasting.AssemblyInfo.cs
+/Users/teeraponguthairat/Desktop/C#/InheritanceCasting/InheritanceCasting/bin/Debug/netcoreapp2.1/InheritanceCasting.deps.json
+/Users/teeraponguthairat/Desktop/C#/InheritanceCasting/InheritanceCasting/bin/Debug/netcoreapp2.1/InheritanceCasting.runtimeconfig.json
+/Users/teeraponguthairat/Desktop/C#/InheritanceCasting/InheritanceCasting/bin/Debug/netcoreapp2.1/InheritanceCasting.runtimeconfig.dev.json
+/Users/teeraponguthairat/Desktop/C#/InheritanceCasting/InheritanceCasting/bin/Debug/netcoreapp2.1/InheritanceCasting.dll
+/Users/teeraponguthairat/Desktop/C#/InheritanceCasting/InheritanceCasting/bin/Debug/netcoreapp2.1/InheritanceCasting.pdb
+/Users/teeraponguthairat/Desktop/C#/InheritanceCasting/InheritanceCasting/obj/Debug/netcoreapp2.1/InheritanceCasting.dll
+/Users/teeraponguthairat/Desktop/C#/InheritanceCasting/InheritanceCasting/obj/Debug/netcoreapp2.1/InheritanceCasting.pdb

@@ -1,0 +1,11 @@
+/Users/teeraponguthairat/Desktop/C#/Indexers/Indexers/bin/Debug/netcoreapp2.1/Indexers.deps.json
+/Users/teeraponguthairat/Desktop/C#/Indexers/Indexers/bin/Debug/netcoreapp2.1/Indexers.runtimeconfig.json
+/Users/teeraponguthairat/Desktop/C#/Indexers/Indexers/bin/Debug/netcoreapp2.1/Indexers.runtimeconfig.dev.json
+/Users/teeraponguthairat/Desktop/C#/Indexers/Indexers/bin/Debug/netcoreapp2.1/Indexers.dll
+/Users/teeraponguthairat/Desktop/C#/Indexers/Indexers/bin/Debug/netcoreapp2.1/Indexers.pdb
+/Users/teeraponguthairat/Desktop/C#/Indexers/Indexers/obj/Debug/netcoreapp2.1/Indexers.csprojAssemblyReference.cache
+/Users/teeraponguthairat/Desktop/C#/Indexers/Indexers/obj/Debug/netcoreapp2.1/Indexers.csproj.CoreCompileInputs.cache
+/Users/teeraponguthairat/Desktop/C#/Indexers/Indexers/obj/Debug/netcoreapp2.1/Indexers.AssemblyInfoInputs.cache
+/Users/teeraponguthairat/Desktop/C#/Indexers/Indexers/obj/Debug/netcoreapp2.1/Indexers.AssemblyInfo.cs
+/Users/teeraponguthairat/Desktop/C#/Indexers/Indexers/obj/Debug/netcoreapp2.1/Indexers.dll
+/Users/teeraponguthairat/Desktop/C#/Indexers/Indexers/obj/Debug/netcoreapp2.1/Indexers.pdb

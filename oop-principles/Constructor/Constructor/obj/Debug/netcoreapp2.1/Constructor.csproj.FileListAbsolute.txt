@@ -1,0 +1,11 @@
+/Users/teeraponguthairat/Desktop/C#/Constructor/Constructor/bin/Debug/netcoreapp2.1/Constructor.deps.json
+/Users/teeraponguthairat/Desktop/C#/Constructor/Constructor/bin/Debug/netcoreapp2.1/Constructor.runtimeconfig.json
+/Users/teeraponguthairat/Desktop/C#/Constructor/Constructor/bin/Debug/netcoreapp2.1/Constructor.runtimeconfig.dev.json
+/Users/teeraponguthairat/Desktop/C#/Constructor/Constructor/bin/Debug/netcoreapp2.1/Constructor.dll
+/Users/teeraponguthairat/Desktop/C#/Constructor/Constructor/bin/Debug/netcoreapp2.1/Constructor.pdb
+/Users/teeraponguthairat/Desktop/C#/Constructor/Constructor/obj/Debug/netcoreapp2.1/Constructor.csprojAssemblyReference.cache
+/Users/teeraponguthairat/Desktop/C#/Constructor/Constructor/obj/Debug/netcoreapp2.1/Constructor.csproj.CoreCompileInputs.cache
+/Users/teeraponguthairat/Desktop/C#/Constructor/Constructor/obj/Debug/netcoreapp2.1/Constructor.AssemblyInfoInputs.cache
+/Users/teeraponguthairat/Desktop/C#/Constructor/Constructor/obj/Debug/netcoreapp2.1/Constructor.AssemblyInfo.cs
+/Users/teeraponguthairat/Desktop/C#/Constructor/Constructor/obj/Debug/netcoreapp2.1/Constructor.dll
+/Users/teeraponguthairat/Desktop/C#/Constructor/Constructor/obj/Debug/netcoreapp2.1/Constructor.pdb

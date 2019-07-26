@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{67B2D01C-8073-4436-A189-BB9620CC8AD0}|Default">
+  <MonoDevelop.Ide.ItemProperties.InheritanceCasting PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="InheritanceCasting/Program.cs">
+    <Files>
+      <File FileName="InheritanceCasting/Program.cs" Line="9" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InheritanceCasting" expanded="True">
+            <Node name="InheritanceCasting" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

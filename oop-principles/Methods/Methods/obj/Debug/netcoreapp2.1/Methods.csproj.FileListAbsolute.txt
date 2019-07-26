@@ -1,0 +1,11 @@
+/Users/teeraponguthairat/Desktop/C#/Methods/Methods/bin/Debug/netcoreapp2.1/Methods.deps.json
+/Users/teeraponguthairat/Desktop/C#/Methods/Methods/bin/Debug/netcoreapp2.1/Methods.runtimeconfig.json
+/Users/teeraponguthairat/Desktop/C#/Methods/Methods/bin/Debug/netcoreapp2.1/Methods.runtimeconfig.dev.json
+/Users/teeraponguthairat/Desktop/C#/Methods/Methods/bin/Debug/netcoreapp2.1/Methods.dll
+/Users/teeraponguthairat/Desktop/C#/Methods/Methods/bin/Debug/netcoreapp2.1/Methods.pdb
+/Users/teeraponguthairat/Desktop/C#/Methods/Methods/obj/Debug/netcoreapp2.1/Methods.csprojAssemblyReference.cache
+/Users/teeraponguthairat/Desktop/C#/Methods/Methods/obj/Debug/netcoreapp2.1/Methods.csproj.CoreCompileInputs.cache
+/Users/teeraponguthairat/Desktop/C#/Methods/Methods/obj/Debug/netcoreapp2.1/Methods.AssemblyInfoInputs.cache
+/Users/teeraponguthairat/Desktop/C#/Methods/Methods/obj/Debug/netcoreapp2.1/Methods.AssemblyInfo.cs
+/Users/teeraponguthairat/Desktop/C#/Methods/Methods/obj/Debug/netcoreapp2.1/Methods.dll
+/Users/teeraponguthairat/Desktop/C#/Methods/Methods/obj/Debug/netcoreapp2.1/Methods.pdb

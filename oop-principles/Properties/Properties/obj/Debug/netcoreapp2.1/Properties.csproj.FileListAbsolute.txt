@@ -1,0 +1,11 @@
+/Users/teeraponguthairat/Desktop/C#/Properties/Properties/bin/Debug/netcoreapp2.1/Properties.deps.json
+/Users/teeraponguthairat/Desktop/C#/Properties/Properties/bin/Debug/netcoreapp2.1/Properties.runtimeconfig.json
+/Users/teeraponguthairat/Desktop/C#/Properties/Properties/bin/Debug/netcoreapp2.1/Properties.runtimeconfig.dev.json
+/Users/teeraponguthairat/Desktop/C#/Properties/Properties/bin/Debug/netcoreapp2.1/Properties.dll
+/Users/teeraponguthairat/Desktop/C#/Properties/Properties/bin/Debug/netcoreapp2.1/Properties.pdb
+/Users/teeraponguthairat/Desktop/C#/Properties/Properties/obj/Debug/netcoreapp2.1/Properties.csprojAssemblyReference.cache
+/Users/teeraponguthairat/Desktop/C#/Properties/Properties/obj/Debug/netcoreapp2.1/Properties.csproj.CoreCompileInputs.cache
+/Users/teeraponguthairat/Desktop/C#/Properties/Properties/obj/Debug/netcoreapp2.1/Properties.AssemblyInfoInputs.cache
+/Users/teeraponguthairat/Desktop/C#/Properties/Properties/obj/Debug/netcoreapp2.1/Properties.AssemblyInfo.cs
+/Users/teeraponguthairat/Desktop/C#/Properties/Properties/obj/Debug/netcoreapp2.1/Properties.dll
+/Users/teeraponguthairat/Desktop/C#/Properties/Properties/obj/Debug/netcoreapp2.1/Properties.pdb

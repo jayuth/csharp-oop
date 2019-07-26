@@ -1,0 +1,11 @@
+/Users/teeraponguthairat/Desktop/C#/Polymorphism/Polymorphism/bin/Debug/netcoreapp2.1/Polymorphism.deps.json
+/Users/teeraponguthairat/Desktop/C#/Polymorphism/Polymorphism/bin/Debug/netcoreapp2.1/Polymorphism.runtimeconfig.json
+/Users/teeraponguthairat/Desktop/C#/Polymorphism/Polymorphism/bin/Debug/netcoreapp2.1/Polymorphism.runtimeconfig.dev.json
+/Users/teeraponguthairat/Desktop/C#/Polymorphism/Polymorphism/bin/Debug/netcoreapp2.1/Polymorphism.dll
+/Users/teeraponguthairat/Desktop/C#/Polymorphism/Polymorphism/bin/Debug/netcoreapp2.1/Polymorphism.pdb
+/Users/teeraponguthairat/Desktop/C#/Polymorphism/Polymorphism/obj/Debug/netcoreapp2.1/Polymorphism.csprojAssemblyReference.cache
+/Users/teeraponguthairat/Desktop/C#/Polymorphism/Polymorphism/obj/Debug/netcoreapp2.1/Polymorphism.csproj.CoreCompileInputs.cache
+/Users/teeraponguthairat/Desktop/C#/Polymorphism/Polymorphism/obj/Debug/netcoreapp2.1/Polymorphism.AssemblyInfoInputs.cache
+/Users/teeraponguthairat/Desktop/C#/Polymorphism/Polymorphism/obj/Debug/netcoreapp2.1/Polymorphism.AssemblyInfo.cs
+/Users/teeraponguthairat/Desktop/C#/Polymorphism/Polymorphism/obj/Debug/netcoreapp2.1/Polymorphism.dll
+/Users/teeraponguthairat/Desktop/C#/Polymorphism/Polymorphism/obj/Debug/netcoreapp2.1/Polymorphism.pdb

@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{5F746AE4-6B7F-461F-955B-02DBDA39407D}|Default">
+  <MonoDevelop.Ide.ItemProperties.Polymorphism PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Polymorphism/Program.cs">
+    <Files>
+      <File FileName="Polymorphism/Program.cs" Line="77" Column="46" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Polymorphism" expanded="True">
+            <Node name="Polymorphism" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

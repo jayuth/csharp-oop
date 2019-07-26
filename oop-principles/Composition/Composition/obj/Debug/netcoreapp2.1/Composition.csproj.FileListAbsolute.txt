@@ -1,0 +1,11 @@
+/Users/teeraponguthairat/Desktop/C#/Composition/Composition/bin/Debug/netcoreapp2.1/Composition.deps.json
+/Users/teeraponguthairat/Desktop/C#/Composition/Composition/bin/Debug/netcoreapp2.1/Composition.runtimeconfig.json
+/Users/teeraponguthairat/Desktop/C#/Composition/Composition/bin/Debug/netcoreapp2.1/Composition.runtimeconfig.dev.json
+/Users/teeraponguthairat/Desktop/C#/Composition/Composition/bin/Debug/netcoreapp2.1/Composition.dll
+/Users/teeraponguthairat/Desktop/C#/Composition/Composition/bin/Debug/netcoreapp2.1/Composition.pdb
+/Users/teeraponguthairat/Desktop/C#/Composition/Composition/obj/Debug/netcoreapp2.1/Composition.csprojAssemblyReference.cache
+/Users/teeraponguthairat/Desktop/C#/Composition/Composition/obj/Debug/netcoreapp2.1/Composition.csproj.CoreCompileInputs.cache
+/Users/teeraponguthairat/Desktop/C#/Composition/Composition/obj/Debug/netcoreapp2.1/Composition.AssemblyInfoInputs.cache
+/Users/teeraponguthairat/Desktop/C#/Composition/Composition/obj/Debug/netcoreapp2.1/Composition.AssemblyInfo.cs
+/Users/teeraponguthairat/Desktop/C#/Composition/Composition/obj/Debug/netcoreapp2.1/Composition.dll
+/Users/teeraponguthairat/Desktop/C#/Composition/Composition/obj/Debug/netcoreapp2.1/Composition.pdb

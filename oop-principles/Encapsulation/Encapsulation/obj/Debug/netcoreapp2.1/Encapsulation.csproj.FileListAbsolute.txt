@@ -1,0 +1,11 @@
+/Users/teeraponguthairat/Desktop/C#/Encapsulation/Encapsulation/bin/Debug/netcoreapp2.1/Encapsulation.deps.json
+/Users/teeraponguthairat/Desktop/C#/Encapsulation/Encapsulation/bin/Debug/netcoreapp2.1/Encapsulation.runtimeconfig.json
+/Users/teeraponguthairat/Desktop/C#/Encapsulation/Encapsulation/bin/Debug/netcoreapp2.1/Encapsulation.runtimeconfig.dev.json
+/Users/teeraponguthairat/Desktop/C#/Encapsulation/Encapsulation/bin/Debug/netcoreapp2.1/Encapsulation.dll
+/Users/teeraponguthairat/Desktop/C#/Encapsulation/Encapsulation/bin/Debug/netcoreapp2.1/Encapsulation.pdb
+/Users/teeraponguthairat/Desktop/C#/Encapsulation/Encapsulation/obj/Debug/netcoreapp2.1/Encapsulation.csprojAssemblyReference.cache
+/Users/teeraponguthairat/Desktop/C#/Encapsulation/Encapsulation/obj/Debug/netcoreapp2.1/Encapsulation.csproj.CoreCompileInputs.cache
+/Users/teeraponguthairat/Desktop/C#/Encapsulation/Encapsulation/obj/Debug/netcoreapp2.1/Encapsulation.AssemblyInfoInputs.cache
+/Users/teeraponguthairat/Desktop/C#/Encapsulation/Encapsulation/obj/Debug/netcoreapp2.1/Encapsulation.AssemblyInfo.cs
+/Users/teeraponguthairat/Desktop/C#/Encapsulation/Encapsulation/obj/Debug/netcoreapp2.1/Encapsulation.dll
+/Users/teeraponguthairat/Desktop/C#/Encapsulation/Encapsulation/obj/Debug/netcoreapp2.1/Encapsulation.pdb

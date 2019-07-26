@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{436B76D1-AD44-4885-8417-D8CF031817CA}|Default">
+  <MonoDevelop.Ide.ItemProperties.Fields PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Fields/Customer.cs">
+    <Files>
+      <File FileName="Fields/Program.cs" Line="12" Column="1" />
+      <File FileName="Fields/Customer.cs" Line="5" Column="2" />
+      <File FileName="Fields/Order.cs" Line="6" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Fields" expanded="True">
+            <Node name="Fields" expanded="True">
+              <Node name="Customer.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
