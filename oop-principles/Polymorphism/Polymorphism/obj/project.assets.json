@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/teeraponguthairat/Desktop/C#/Polymorphism/Polymorphism/Polymorphism.csproj",
+      "projectUniqueName": "/Users/teeraponguthairat/Desktop/csharp-oop/oop-principles/Polymorphism/Polymorphism/Polymorphism.csproj",
       "projectName": "Polymorphism",
-      "projectPath": "/Users/teeraponguthairat/Desktop/C#/Polymorphism/Polymorphism/Polymorphism.csproj",
+      "projectPath": "/Users/teeraponguthairat/Desktop/csharp-oop/oop-principles/Polymorphism/Polymorphism/Polymorphism.csproj",
       "packagesPath": "/Users/teeraponguthairat/.nuget/packages/",
-      "outputPath": "/Users/teeraponguthairat/Desktop/C#/Polymorphism/Polymorphism/obj/",
+      "outputPath": "/Users/teeraponguthairat/Desktop/csharp-oop/oop-principles/Polymorphism/Polymorphism/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/teeraponguthairat/Desktop/C#/InheritanceCasting/InheritanceCasting/InheritanceCasting.csproj",
+      "projectUniqueName": "/Users/teeraponguthairat/Desktop/csharp-oop/oop-principles/InheritanceCasting/InheritanceCasting/InheritanceCasting.csproj",
       "projectName": "InheritanceCasting",
-      "projectPath": "/Users/teeraponguthairat/Desktop/C#/InheritanceCasting/InheritanceCasting/InheritanceCasting.csproj",
+      "projectPath": "/Users/teeraponguthairat/Desktop/csharp-oop/oop-principles/InheritanceCasting/InheritanceCasting/InheritanceCasting.csproj",
       "packagesPath": "/Users/teeraponguthairat/.nuget/packages/",
-      "outputPath": "/Users/teeraponguthairat/Desktop/C#/InheritanceCasting/InheritanceCasting/obj/",
+      "outputPath": "/Users/teeraponguthairat/Desktop/csharp-oop/oop-principles/InheritanceCasting/InheritanceCasting/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
