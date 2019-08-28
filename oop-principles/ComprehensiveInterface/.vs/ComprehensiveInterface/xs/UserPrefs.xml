@@ -1,12 +1,13 @@
 ﻿<Properties StartupConfiguration="{AB627E7C-2ACF-47CD-9993-3B7C18A4DDB1}|Default">
-  <MonoDevelop.Ide.ItemProperties.ComprehensiveInterface FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ComprehensiveInterface PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="ComprehensiveInterface/DigitalProductModel.cs">
     <Files>
-      <File FileName="ComprehensiveInterface/Program.cs" Line="12" Column="2" />
-      <File FileName="ComprehensiveInterface/IProductModel.cs" Line="10" Column="41" />
-      <File FileName="ComprehensiveInterface/PhysicalProductModel.cs" Line="11" Column="10" />
+      <File FileName="ComprehensiveInterface/Program.cs" Line="12" Column="30" />
+      <File FileName="ComprehensiveInterface/IProductModel.cs" Line="13" Column="29" />
+      <File FileName="ComprehensiveInterface/PhysicalProductModel.cs" Line="17" Column="1" />
       <File FileName="ComprehensiveInterface/CustomerModel.cs" Line="13" Column="1" />
-      <File FileName="ComprehensiveInterface/DigitalProductModel.cs" Line="4" Column="41" />
+      <File FileName="ComprehensiveInterface/DigitalProductModel.cs" Line="11" Column="60" />
+      <File FileName="ComprehensiveInterface/IDigitalProductModel.cs" Line="6" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

@@ -1,13 +1,13 @@
 ﻿using System;
 namespace ComprehensiveInterface
 {
-    public class DigitalProductModel : IProductModel
+    // implement only IDigitalProductModel because it has all properties and method of IProductModel
+    public class DigitalProductModel : IDigitalProductModel
     {
         public string Title { get; set; }
 
         public bool HasOrderBeenCompleted { get; private set; }
 
-        // add new property specially for this class
         public int TotalDownloadsLeft { get; private set; } = 5;
 
         public void ShipItem(CustomerModel customer)
